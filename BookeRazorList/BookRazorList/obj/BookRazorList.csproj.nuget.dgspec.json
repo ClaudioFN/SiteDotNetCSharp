@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\GitHub\\SiteDotNetCSharp\\BookeRazorList\\BookRazorList\\BookRazorList.csproj": {}
+    "C:\\Users\\claudio\\Documents\\GitHub\\SiteDotNetCSharp\\BookeRazorList\\BookRazorList\\BookRazorList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\GitHub\\SiteDotNetCSharp\\BookeRazorList\\BookRazorList\\BookRazorList.csproj": {
+    "C:\\Users\\claudio\\Documents\\GitHub\\SiteDotNetCSharp\\BookeRazorList\\BookRazorList\\BookRazorList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\SiteDotNetCSharp\\BookeRazorList\\BookRazorList\\BookRazorList.csproj",
+        "projectUniqueName": "C:\\Users\\claudio\\Documents\\GitHub\\SiteDotNetCSharp\\BookeRazorList\\BookRazorList\\BookRazorList.csproj",
         "projectName": "BookRazorList",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\SiteDotNetCSharp\\BookeRazorList\\BookRazorList\\BookRazorList.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\SiteDotNetCSharp\\BookeRazorList\\BookRazorList\\obj\\",
+        "projectPath": "C:\\Users\\claudio\\Documents\\GitHub\\SiteDotNetCSharp\\BookeRazorList\\BookRazorList\\BookRazorList.csproj",
+        "packagesPath": "C:\\Users\\claudio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\claudio\\Documents\\GitHub\\SiteDotNetCSharp\\BookeRazorList\\BookRazorList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\claudio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
