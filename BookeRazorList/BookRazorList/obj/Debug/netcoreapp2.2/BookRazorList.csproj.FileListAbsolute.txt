@@ -28,3 +28,5 @@ C:\Users\Usuario\Documents\GitHub\SiteDotNetCSharp\BookeRazorList\BookRazorList\
 C:\Users\Usuario\Documents\GitHub\SiteDotNetCSharp\BookeRazorList\BookRazorList\obj\Debug\netcoreapp2.2\BookRazorList.dll
 C:\Users\Usuario\Documents\GitHub\SiteDotNetCSharp\BookeRazorList\BookRazorList\obj\Debug\netcoreapp2.2\BookRazorList.pdb
 C:\Users\Usuario\Documents\GitHub\SiteDotNetCSharp\BookeRazorList\BookRazorList\obj\Debug\netcoreapp2.2\BookRazorList.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\SiteDotNetCSharp\BookeRazorList\BookRazorList\obj\Debug\netcoreapp2.2\Razor\Pages\BookList\Index.g.cshtml.cs
+C:\Users\Usuario\Documents\GitHub\SiteDotNetCSharp\BookeRazorList\BookRazorList\obj\Debug\netcoreapp2.2\Razor\Pages\BookList\Create.g.cshtml.cs
